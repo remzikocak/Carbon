@@ -39,7 +39,7 @@ return [
     'h' => ':count sa.',
     'minute' => ':count dakika',
     'a_minute' => '{1}bir dakika|]1,Inf[:count dakika',
-    'min' => ':countdk',
+    'min' => ':count dk.',
     'second' => ':count saniye',
     'a_second' => '{1}birkaç saniye|]1,Inf[:count saniye',
     's' => ':count sn.',
